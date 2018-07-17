@@ -40,11 +40,11 @@
                   <institution>School of Oriental and African Studies</institution>
                   <repository>SOAS Library</repository>
                   <collection>Special Collections</collection>
-                  <idno>ms. 1504</idno>
+                  <idno>MS 1504</idno>
                </msIdentifier>
                <msContents>
                   <summary change="#add-summary">
-                     1 copy of al-Qurʼān
+                     al-Qurʼān
                   </summary>
                   <msItem xml:id="ms_1504-item1">
                      <title xml:lang="ar-Latn-x-lc">al-Qurʼān</title>
